@@ -3,10 +3,10 @@
   <groupId>com.bonree.agent.android</groupId>
   <artifactId>agent</artifactId>
   <versioning>
-    <release>2.1.9.5</release>
+    <release>2.1.9.9</release>
     <versions>
-      <version>2.1.9.5</version>
+      <version>2.1.9.9</version>
     </versions>
-    <lastUpdated>20170216032818</lastUpdated>
+    <lastUpdated>20170224085940</lastUpdated>
   </versioning>
 </metadata>
